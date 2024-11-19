@@ -1,1 +1,1 @@
-# APMantics1-GitHub.io
+# APMantics1.github.io
